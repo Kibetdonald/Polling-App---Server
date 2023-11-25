@@ -1,4 +1,4 @@
-# Polling-App-Server-
+# Polling App (Server)
 The project is a Spring boot server for a public poll that the  public can participate by responding with feedback, including thumbs up or down, comments, and optional attachments.
 
 # Features
